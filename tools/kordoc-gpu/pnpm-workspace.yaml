@@ -1,0 +1,10 @@
+allowBuilds:
+  onnxruntime-node: true
+  protobufjs: false
+ignoredOptionalDependencies:
+  - '@huggingface/transformers'
+overrides:
+  onnxruntime-node: 1.24.3
+minimumReleaseAgeExclude:
+  - kordoc@4.19.1
+  - '@hyzyla/pdfium@2.1.13'

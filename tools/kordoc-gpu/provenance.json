@@ -1,0 +1,18 @@
+{
+  "kordoc_version": "4.19.1",
+  "release_url": "https://github.com/chrisryugj/kordoc/releases/tag/v4.19.1",
+  "git_commit": "73e2066d2653b162fbea9234fa664632a5a14166",
+  "npm_metadata_url": "https://registry.npmjs.org/kordoc/4.19.1",
+  "tarball_url": "https://registry.npmjs.org/kordoc/-/kordoc-4.19.1.tgz",
+  "tarball_integrity": "sha512-JYi6hvx1puEtggEF1C+NtZrtr3wlasm+NCT4HLaKxfMi/m0hKIMwk0Rf28ezwnXbvb9men2vMcUvSOxVw239eQ==",
+  "integrity_verified": true,
+  "verified_date_kst": "2026-10-07",
+  "licenses_preserved_at": ["package/LICENSE", "package/NOTICE", "package/THIRD_PARTY"],
+  "ocr_models": [
+    {"filename":"det.onnx","sha256":"a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d"},
+    {"filename":"rec_korean.onnx","sha256":"92f0b7785e64fc9090106a241cf4c1eb97472824558272751b88a2a4476d3a08"},
+    {"filename":"rec_korean.yml","sha256":"f757fa1c40e99edcf27e9cce879b93eb2a51fa46f5ef39095689b8c37dd75998"}
+  ],
+  "modification": "Local runtime intercepts OCR session create/run only; upstream package and models unmodified",
+  "nvidia_device_validation": "not_tested"
+}
