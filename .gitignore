@@ -7,11 +7,13 @@
 !/AGENTS.md
 !/LITERATURE_SEARCH_AGENT.md
 !/PDF_PARSER_AGENT.md
+!/ORCHESTRATOR_AGENT.md
 !/examples/
 /examples/*
 !/examples/README.md
 !/examples/create_demo_pdf.mjs
 !/examples/research_plan.md
+!/examples/orchestrator_scenarios.md
 !/tools/
 /tools/*
 !/tools/kordoc-gpu/
@@ -58,4 +60,5 @@
 **/parsed/
 **/literature/
 **/research_plans/
+**/orchestration/
 **/__pycache__/
