@@ -8,7 +8,7 @@
 | 역할 | 지침 | 하는 일 |
 |---|---|---|
 | 팀장 | [ORCHESTRATOR_AGENT.md](ORCHESTRATOR_AGENT.md) | 주 소통 창구, 범위 합의, 역할 배분, 인계·상태 관리와 통합 보고 |
-| 연구계획서 작성 | [AGENTS.md](AGENTS.md) | 아이디어 진단, 연구문제·방법 설계, 계획서 작성·수정 |
+| 연구계획서 작성 | [RESEARCH_PLAN_AGENT.md](RESEARCH_PLAN_AGENT.md) | 아이디어 진단, 연구문제·방법 설계, 계획서 작성·수정 |
 | 문헌검색 | [LITERATURE_SEARCH_AGENT.md](LITERATURE_SEARCH_AGENT.md) | 핵심 논문 선정, 공식 공개 PDF 확보, 검색 manifest 작성 |
 | PDF 파서 | [PDF_PARSER_AGENT.md](PDF_PARSER_AGENT.md) | 검증 PDF를 페이지 추적 Markdown·JSON·이미지로 변환 |
 
@@ -36,7 +36,7 @@
 
 ```text
 생명과학 설명을 AI가 어떻게 생성하는지 분석하는 석사 연구를 계획하고 싶어.
-AGENTS.md에 따라 필요한 질문부터 하고 잠정 연구계획서를 작성해줘.
+RESEARCH_PLAN_AGENT.md에 따라 필요한 질문부터 하고 잠정 연구계획서를 작성해줘.
 ```
 
 ```text

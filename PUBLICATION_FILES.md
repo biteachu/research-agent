@@ -3,12 +3,13 @@
 대상: biteachu/research-agent, Public. 공개 대상으로 검토한 파일 목록이다.
 최초 28개 파일은 사용자 승인 후 2026-10-07 업로드했다. 팀장 지침·합성 시나리오 2개를 공개 후보에 추가했다. 로컬 원본 자료는 삭제하지 않는다.
 
-## 공개 허용 목록 — 30개 파일
+## 공개 허용 목록 — 31개 파일
 
 ```text
 .gitattributes
 .gitignore
 AGENTS.md
+RESEARCH_PLAN_AGENT.md
 LITERATURE_SEARCH_AGENT.md
 PDF_PARSER_AGENT.md
 ORCHESTRATOR_AGENT.md
@@ -48,7 +49,7 @@ tools/kordoc-gpu/package/THIRD_PARTY/rhwp-forms.txt
 
 ## 점검 범위와 제한
 
-공개 후보 30개 파일의 내용을 검토하고 비밀키 패턴, 인증 URL, 로컬 사용자 경로,
+공개 후보 파일의 내용을 검토하고 비밀키 패턴, 인증 URL, 로컬 사용자 경로,
 이메일·전화번호 등 식별정보 후보를 검사했으며 해당 패턴은 검출되지 않았다. 원본 라이선스·공식 프로젝트 URL·
 공개된 오픈소스 저작권자의 고지는 보존하며 비밀정보와 구분한다.
 공개 예시는 새로 작성한 합성 자료로 실제 연구 결과·학생 자료·논문 원문이 없다.
@@ -58,7 +59,7 @@ tools/kordoc-gpu/package/THIRD_PARTY/rhwp-forms.txt
 
 GitHub 계정 biteachu 로그인, research-agent Public 저장소 생성, 관리자·푸시 권한과
 익명 공개 조회를 확인했다. Git 원격은 https://github.com/biteachu/research-agent.git 이다.
-첫 커밋의 28개 파일에 이어 사용자가 2026-10-08 팀장 추가분의 공개 업로드를 승인했다. 공개 대상은 총 30개 파일이며 후속 공개 시 실제 커밋 목록을 다시 확인한다.
+첫 커밋의 28개 파일에 이어 사용자가 2026-10-08 팀장 추가분의 공개 업로드를 승인했다. 이후 작성 지침을 RESEARCH_PLAN_AGENT.md로 분리해 공개 허용 목록은 31개다. 후속 공개 시 실제 커밋 목록을 다시 확인한다.
 
 ## 후속 공개 시 확인
 
